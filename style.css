@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui;
+  background: white;
+  color: green;
+  text-align: center;
+}
+
+.main-image {
+  display: block;
+  margin: 20px auto;
+  width: 250px;
+}
+
+.book-row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.book-row img {
+  width: 100px;
+}
